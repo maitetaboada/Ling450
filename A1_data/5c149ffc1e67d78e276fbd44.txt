@@ -1,0 +1,24 @@
+Security experts believe Thursday’s emailed bomb threats can be traced back to the same group responsible for the “sextortion” scam this past October. 
+ While investigators still do not know who is responsible, Cisco System’s Talos cybersecurity unit said in a statement on Friday that the threats came from the same group of fraudsters responsible for sending emails a few months back that claimed to have videos showing the recipients having sex. 
+ READ MORE: Sextortion scam uses old passwords to extort money from victims. 
+ “Cisco Talos discovered that this campaign is actually an evolution of sextortion and extortion attacks that we reported on in October. The claims in the emails we’ve seen from this actor are completely false, yet they have caused untold amounts of damage as organizations have evacuated buildings and called upon law enforcement to investigate,” the security firm wrote in its statement. 
+ In the “sextortion” case, the senders threatened to release these videos, recorded through the webcams on recipients’ computers, unless they were paid a ransom. 
+ Jason Schultz, technical researcher at Talos, stated in the company’s blog post that some of the bomb threats that took place this week came from the same addresses used in those campaigns. 
+ WATCH: Bomb threats demanding Bitcoin investigated across Canada, U.S. 
+ “Multiple IPs involved in sending these bomb threats also sent various types of sextortion email that we saw in the previous campaign. In those cases, the attackers sent out emails claiming to have compromising videos of the victim and (threatened to) release them to the public unless the attacker (received) a bitcoin payment,” the post read. 
+ According to the post, the bomb threat had morphed once again by late Thursday, as the attackers now threatened to throw acid on the victims. 
+ Director, security response at cybersecurity firm Symantec, Kevin Haley, agreed with this finding. 
+ WATCH: Authorities outline ‘sextortion’ string involving inmates, military service members. 
+ “We believe it’s the same group,” he confirmed. 
+ To determine this, Haley explained that Symantec looked at where the threats where coming from, the characteristics of the emails and whether or not the same spam servers were being used in this case as were used in October. 
+ “We’re looking for similarities in the attack and when you see those similarities you pretty much know it’s the same group,” he said. 
+ According to Haley, the bomb threats were an “innovation” on October’s “sextortion” scam, and the threat will likely continue to evolve until the perpetrators stumble upon one that sticks. 
+ WATCH: Burnaby RCMP warns of rise in ‘sextortion’ cases. 
+ “This game is all about getting a certain percentage of people to respond,” he said. 
+ “The sextortion spam is not new. What’s new is they had a new twist that they thought could increase the amount of money they could make,” Haley explained. 
+ “While this caused chaos, it doesn’t look like it made them any money so they’ve moved on.”. 
+ He states however, that the increased frequency of these kinds of threats has less to do with access to technology and more to do with the option to demand ransom payments in bitcoin. 
+ “What’s different here is that there is an easy way to exploit people, and that’s cryptocurrency. It’s fast, it’s virtual and it’s almost risk-free for the bad guys to do that,” he said. 
+ READ MORE: ‘It becomes a nightmare’: the rise of the viral bomb threat and how it makes the job of police harder. 
+ Haley said that though the attackers didn’t make any money this time, we’re likely to see more of this style of attack containing different threats until one prompts enough people to pay the ransom. And when it does, he warns that it’s going to “explode.”. 
+ “They’re going to continue to throw things up against the wall and see what sticks until, eventually, when they hit at something that motivates people to actually pay that ransom, we’ll see that explode,” Haley said. “We’ll see hundreds of thousands, millions of these emails. Everybody will start getting them in their mailbox.”

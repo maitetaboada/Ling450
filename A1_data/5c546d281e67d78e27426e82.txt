@@ -1,0 +1,18 @@
+. 
+ Barbara Ortutay, The Associated Press. 
+ . 
+ . 
+ NEW YORK -- Facebook says Apple is restoring its access to a key development tool that the iPhone maker disabled Wednesday. 
+ Late Tuesday, TechCrunch reported that Facebook paid teens and other users who agreed to download an app called Facebook Research. That app could extensively track their phone and web use. Apple said Facebook was abusing the tool , known as a developer enterprise certificate, to distribute the app on iPhones in a way that allowed the social network to sidestep Apple restrictions on data collection. 
+ By revoking the certificate for the iOS software that powers the iPhone and iPad, Apple closed off Facebook's efforts to sidestep Apple's app store and its tighter rules on privacy. 
+ Apple did not immediately respond to a message for comment Thursday afternoon. Facebook did not say whether it agreed to any conditions for the certificate restoration. 
+ In an internal memo sent on Wednesday, Facebook told employees it is "working closely" with Apple to reinstate access. It also told workers to install the public versions of apps from the app store. Apps that it said "may not work" included internal versions of Facebook, Workplace, Instagram and the Ride app, which helps workers with transportation. WhatsApp was not affected. 
+ While Facebook engineers could still write code and work on iPhone apps during the shutoff, their ability to test them in the field was limited. 
+ In a statement, Facebook said it is "in the process of getting our internal apps up and running." The company noted that the issue had no impact on its consumer services. 
+ During the shutoff, Facebook also lost the ability to create and push out iPhone apps such as internal tools and apps to its own employees. That's a big deal since Facebook publishes tools and future products to its own team to test before providing them to the public, said Marty Puranik, CEO and founder of cloud hosting company Atlantic.Net. 
+ Puranik, who regularly works with developers, said the certificate revocation also meant developers lost the ability to publish their iPhone apps without vetting by Apple. Those in the program can skip Apple's compliance and user safety checks, which leads to faster updates. 
+ Still, the shutoff didn't seem to debilitate Facebook's ability to work. Its developers work on code on Facebook's internal systems. And version 206.0 of the Facebook app for iPhones was sent out on Thursday morning, while the shutoff was still in effect. 
+ Google said Thursday that Apple has also revoked its enterprise certificate, blocking Google employees from testing new app features on iPhones. 
+ But the company seemed confident it would quickly regain its access. "We're working with Apple to fix a temporary disruption to some of our corporate iOS apps, which we expect will be resolved soon," the company said in a statement. 
+ Google declined to say why it lost the certificate, but came a day after the company voluntarily withdrew market-research app called "Screenwise Meter" that had been distributed to consumers, although not to teens. 
+ Google and Apple have a lucrative business relationship worth billions of dollars a year, since Googles pays a commission for the ads that it sells as the built-in search engine on iPhones.
