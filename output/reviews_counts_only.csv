@@ -1,0 +1,5 @@
+fileid,token_count,type_count,sentence_count,lexical_diversity
+bad_santa.txt,516,264,21,0.5116279069767442
+cat_in_the_hat.txt,630,296,35,0.4698412698412698
+elf.txt,371,213,17,0.5741239892183289
+gothika.txt,532,300,19,0.5639097744360902
